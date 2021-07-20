@@ -1,0 +1,55 @@
+{
+    "commit": "c603027",
+    "compilation_date": "2021-04-09T05:24:36.493584",
+    "compilation_flags": {
+        "float_abi": "hard",
+        "fshort_enums": false,
+        "short_wchar": true
+    },
+    "compilation_str": "{'compilation_dict':{'compilation_type':'on_board_training','mcu':'cortex-m4_st_nucleo-f401re','sensor':'acc3','data':{'nb_cols':1536,'nb_lines':[[100,100]]},'compilation_flags':{'float_abi':'hard','short_wchar':true,'fshort_enums':false},'performance':{'precision':1.0,'confidence':1.0,'estimated_ram':5256.0},'lib_version':'c603027','api':{'version':'v3'},'only_emulators':false,'version':{'web_api':{'version':'v3'},'local_api':{'version':'2020.12.08.1','platform':'win64'},'studio':'2.0.1'},'combination':[512,5,0,2,3,0.98,0.83,1,0,1,8,0.89,0.73]},'sign':18984,'license_key':'***'}",
+    "compilation_type": "on_board_training",
+    "data": {
+        "nb_cols": 1536,
+        "nb_lines": [
+            [
+                100,
+                100
+            ]
+        ]
+    },
+    "gcc_version": "arm-none-eabi-gcc (GNU Tools for Arm Embedded Processors 9-2019-q4-major) 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599]",
+    "lib_limited": true,
+    "library_id": "606fe5168de1036cee648aca",
+    "library_md5sum": "e215849052bdbe30bcf49677a72a95e9",
+    "mcu": "cortex-m4_st_nucleo-f401re",
+    "mcu_brand": "st",
+    "mcu_name": "nucleo-f401re",
+    "mcu_type": "cortex-m4",
+    "memory_usage": {
+        "flash": 5081,
+        "ram": 5265
+    },
+    "only_emulators": false,
+    "performance": {
+        "confidence": 1.0,
+        "estimated_ram": 5256.0,
+        "precision": 1.0
+    },
+    "sensor": "acc3",
+    "studio_info": {
+        "local_api": {
+            "platform": "win64",
+            "version": "2020.12.08.1"
+        },
+        "studio": "2.0.1",
+        "web_api": {
+            "version": "v3"
+        }
+    },
+    "user_info": {
+        "company": "Nota Incorporated",
+        "email": "jimin.lee@nota.ai",
+        "first_name": "jimin",
+        "last_name": "lee"
+    }
+}
