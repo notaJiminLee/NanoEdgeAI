@@ -1,0 +1,320 @@
+[
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 7, 
+            ".bss": 17, 
+            ".text": 188
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data": 2472, 
+            ".bss": 89, 
+            ".text": 32138
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 4776
+        }
+    }, 
+    {
+        "module": "[lib]\\m.a", 
+        "size": {
+            ".data": 1, 
+            ".bss": 0, 
+            ".text": 565
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data": 12, 
+            ".bss": 28, 
+            ".text": 208
+        }
+    }, 
+    {
+        "module": "[lib]\\neai.a", 
+        "size": {
+            ".data": 12, 
+            ".bss": 5153, 
+            ".text": 5828
+        }
+    }, 
+    {
+        "module": "drivers\\FlashIAP.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 48
+        }
+    }, 
+    {
+        "module": "drivers\\I2C.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 44, 
+            ".text": 478
+        }
+    }, 
+    {
+        "module": "drivers\\InterruptIn.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 282
+        }
+    }, 
+    {
+        "module": "drivers\\SPI.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 100, 
+            ".text": 112
+        }
+    }, 
+    {
+        "module": "drivers\\Serial.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 398
+        }
+    }, 
+    {
+        "module": "drivers\\SerialBase.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 614
+        }
+    }, 
+    {
+        "module": "drivers\\Ticker.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 194
+        }
+    }, 
+    {
+        "module": "drivers\\Timer.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 324
+        }
+    }, 
+    {
+        "module": "drivers\\TimerEvent.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 124
+        }
+    }, 
+    {
+        "module": "drivers\\UARTSerial.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 20
+        }
+    }, 
+    {
+        "module": "hal\\mbed_critical_section_api.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 2, 
+            ".text": 60
+        }
+    }, 
+    {
+        "module": "hal\\mbed_gpio.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 126
+        }
+    }, 
+    {
+        "module": "hal\\mbed_pinmap_common.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 184
+        }
+    }, 
+    {
+        "module": "hal\\mbed_sleep_manager.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 2, 
+            ".text": 156
+        }
+    }, 
+    {
+        "module": "hal\\mbed_ticker_api.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1072
+        }
+    }, 
+    {
+        "module": "hal\\mbed_us_ticker_api.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 64, 
+            ".text": 64
+        }
+    }, 
+    {
+        "module": "platform\\FileBase.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 44, 
+            ".text": 274
+        }
+    }, 
+    {
+        "module": "platform\\FileHandle.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 138
+        }
+    }, 
+    {
+        "module": "platform\\FilePath.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 152
+        }
+    }, 
+    {
+        "module": "platform\\Stream.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 523
+        }
+    }, 
+    {
+        "module": "platform\\mbed_alloc_wrappers.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 16
+        }
+    }, 
+    {
+        "module": "platform\\mbed_board.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 196
+        }
+    }, 
+    {
+        "module": "platform\\mbed_critical.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 4, 
+            ".text": 112
+        }
+    }, 
+    {
+        "module": "platform\\mbed_error.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 113, 
+            ".text": 272
+        }
+    }, 
+    {
+        "module": "platform\\mbed_retarget.o", 
+        "size": {
+            ".data": 260, 
+            ".bss": 56, 
+            ".text": 1643
+        }
+    }, 
+    {
+        "module": "platform\\mbed_wait_api_rtos.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 72
+        }
+    }, 
+    {
+        "module": "rtos\\Mutex.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 143
+        }
+    }, 
+    {
+        "module": "rtos\\TARGET_CORTEX", 
+        "size": {
+            ".data": 168, 
+            ".bss": 6069, 
+            ".text": 8342
+        }
+    }, 
+    {
+        "module": "rtos\\Thread.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 4, 
+            ".text": 20
+        }
+    }, 
+    {
+        "module": "src\\bmi160.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 282
+        }
+    }, 
+    {
+        "module": "src\\bmi160_i2c.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 256
+        }
+    }, 
+    {
+        "module": "src\\main.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 6843, 
+            ".text": 823
+        }
+    }, 
+    {
+        "module": "targets\\TARGET_STM", 
+        "size": {
+            ".data": 4, 
+            ".bss": 920, 
+            ".text": 12379
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 22500, 
+            "total_flash": 76550
+        }
+    }
+]
