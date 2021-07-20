@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "compare": "cpp",
+        "cstddef": "cpp",
+        "functional": "cpp",
+        "limits": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "xutility": "cpp",
+        "*.ipp": "cpp"
+    }
+}

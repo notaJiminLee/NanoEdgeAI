@@ -1,0 +1,131 @@
+[
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data-delta": -7, 
+            ".text-delta": -12, 
+            ".bss": 19, 
+            ".data": 0, 
+            ".bss-delta": -9, 
+            ".text": 48
+        }
+    }, 
+    {
+        "module": "[lib]\\c.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 89, 
+            ".data": 2108, 
+            ".bss-delta": 0, 
+            ".text": 4836
+        }
+    }, 
+    {
+        "module": "[lib]\\gcc.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": -1732, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 3152
+        }
+    }, 
+    {
+        "module": "[lib]\\m.a", 
+        "size": {
+            ".data-delta": -1, 
+            ".text-delta": -1744, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 0
+        }
+    }, 
+    {
+        "module": "[lib]\\misc", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 28, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 180
+        }
+    }, 
+    {
+        "module": "[lib]\\neai.a", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": -2840, 
+            ".bss": 0, 
+            ".data": 0, 
+            ".bss-delta": -5769, 
+            ".text": 0
+        }
+    }, 
+    {
+        "module": "mbed-os\\drivers", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": -228, 
+            ".bss": 12, 
+            ".data": 0, 
+            ".bss-delta": 0, 
+            ".text": 2682
+        }
+    }, 
+    {
+        "module": "mbed-os\\hal", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 58, 
+            ".data": 4, 
+            ".bss-delta": 0, 
+            ".text": 1636
+        }
+    }, 
+    {
+        "module": "mbed-os\\platform", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 360, 
+            ".data": 260, 
+            ".bss-delta": 0, 
+            ".text": 4696
+        }
+    }, 
+    {
+        "module": "mbed-os\\targets", 
+        "size": {
+            ".data-delta": 0, 
+            ".text-delta": 0, 
+            ".bss": 954, 
+            ".data": 8, 
+            ".bss-delta": 0, 
+            ".text": 12648
+        }
+    }, 
+    {
+        "module": "multispeed_fan_tutorial\\src", 
+        "size": {
+            ".data-delta": -24, 
+            ".text-delta": 60, 
+            ".bss": 6824, 
+            ".data": 0, 
+            ".bss-delta": -22, 
+            ".text": 1258
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 10728, 
+            "total_flash_delta": -6528, 
+            "static_ram_delta": -5832, 
+            "total_flash": 33520
+        }
+    }
+]
